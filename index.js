@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //moving things with javascript
 
 //grab the dodger
@@ -42,3 +43,8 @@ document.addEventListener('keydown', function(e) {
     moveDodgerRight()
   }
 })
+=======
+// const app = "I don't do much."
+var dodger = document.getElementById('dodger')
+dodger.style.backgroundColor = "#000000"
+>>>>>>> 08a9788895f7e5a77a6675c0ba1e38272d7d5ef6
